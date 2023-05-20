@@ -1,4 +1,4 @@
-# DIGITAL BUSINESS CARD
+# TRAVEL JOURNAL
 
 This is a solution to the [Travel Journal React Project on Scrimba ](https://scrimba.com/learn/frontend/solo-project-pro-travel-journal-co74f46f2b22693c5ea577559). 
 
