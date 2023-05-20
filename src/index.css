@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+*, 
+*::before, 
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+  font-size: 0.74rem;
+  font-family: 'Inter', sans-serif;
+  color: #2B283A;
+}
+
+
+
+/* TYPOGRAPHY */
+
+.info-title{
+  font-size: 1.86rem;
+  line-height: 1.89;
+}
+
+
+.info-date{
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 0.63em 0;
+}
+
+
+.info-description{
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+
+.location{
+  text-transform: uppercase;
+  font-size: 0.92rem;
+  letter-spacing: 0.2em;
+  margin-right: 0.5em;
+}
+
+
+.info-map{
+  color: #918E9B;
+  
+}
+
+
+/* LAYOUT */
+
+
+.navbar{
+   background-color: #F55A5A;
+   color: #ffffff;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding: 2em;
+   gap: 1em;
+}
+
+
+
+.info{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2em;
+  gap: 2em;
+}
+
+
+.info-details{
+  max-width: 600px;
+}
+
+
+.top{
+  display: flex;
+  align-items: center;
+}
+
+
+/* IMAGES & ICONS */
+
+.earth-icon{
+  font-size: 3em;
+}
+
+
+img{
+ max-width: 100%;
+ object-fit: cover;
+}
+
+
+.info-img{
+  width: 15em;
+  height: 23em;
+  border-radius: 5px;
+}
+
+
+.location-icon{
+  color: #F55A5A;
+  font-size: 0.89rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
