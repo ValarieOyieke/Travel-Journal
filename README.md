@@ -21,8 +21,8 @@ This is a solution to the [Travel Journal React Project on Scrimba ](https://scr
 
 
 ### Links
-- Solution Scrim: [Scrimba](https://scrimba.com/scrim/cRKyLMCM)
-- Live Site URL: [Netlify](https://graceful-kangaroo-007a6a.netlify.app/)
+<!-- - Solution Scrim: [Scrimba](https://scrimba.com/scrim/cRKyLMCM) -->
+- Live Site URL: [Netlify](https://benevolent-dusk-df409d.netlify.app/)
 
 ## My process
 
