@@ -69,9 +69,10 @@ body {
 
 .info{
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 2em;
+  padding: 3em;
   gap: 2em;
 }
 
@@ -101,8 +102,6 @@ img{
 
 
 .info-img{
-  width: 15em;
-  height: 23em;
   border-radius: 5px;
 }
 
@@ -112,6 +111,17 @@ img{
   font-size: 0.89rem;
 }
 
+
+@media(min-width: 768px){
+  .info{
+    flex-direction: row;
+  }
+
+  .info-img{
+    width: 18em;
+    height: 23em;
+  }
+}
 
 
 

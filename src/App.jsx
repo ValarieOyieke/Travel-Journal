@@ -15,10 +15,7 @@ function App() {
   return(
       <div className="container">
           <Navbar/>
-          
           {infos}
-          
-          
       </div>
 )
        
